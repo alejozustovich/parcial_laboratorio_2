@@ -92,9 +92,10 @@ namespace Forms
 
                 MessageBox.Show(Compra.ToString(unaCompra), "¡Muchas gracias por su compra!", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                TextWriter ticket = new StreamWriter("ticket.txt");
-                ticket.WriteLine("FECHA Y HORA: " + DateTime.Now.ToString() + "\n\n");
+                TextWriter ticket = new StreamWriter("ticket.txt", true);
+                ticket.WriteLine("FECHA Y HORA: " + DateTime.Now.ToString() + "\n");
                 ticket.WriteLine(Compra.ToString(unaCompra));
+                ticket.WriteLine("********************\n");
                 ticket.Close();
 
                 this.DialogResult = DialogResult.OK;
