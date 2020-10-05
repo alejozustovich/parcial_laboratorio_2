@@ -35,7 +35,7 @@ namespace Entidades
         /// </summary>
         public string Vendedor
         {
-            get { return base.Nombre + " " + base.Apellido; }
+            get { return base.NombreCompleto; }
         }
 
         /// <summary>
@@ -53,6 +53,22 @@ namespace Entidades
         {
             get { return this.cantidadVentas; }
             set { this.cantidadVentas = value; }
+        }
+        #endregion
+
+        #region METODOS
+        /// <summary>
+        /// Muestra todos los datos del empleado.
+        /// </summary>
+        /// <returns></returns>
+        public override string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("\nVENDEDOR");
+            sb.AppendLine("**********");
+            sb.AppendLine((string)this);
+            sb.Append("Legajo : " + this.Legajo);
+            return sb.ToString();
         }
         #endregion
     }

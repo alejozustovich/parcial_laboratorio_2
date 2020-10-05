@@ -35,7 +35,7 @@ namespace Entidades
         /// </summary>
         public string Comprador
         {
-            get { return base.Nombre + " " + base.Apellido; }
+            get { return base.NombreCompleto; }
         }
 
         /// <summary>
@@ -98,6 +98,22 @@ namespace Entidades
             
             listadoClientes.Add(cliente);
             return true;
+        }
+        #endregion
+
+        #region METODOS
+        /// <summary>
+        /// Muestra todos los datos del cliente.
+        /// </summary>
+        /// <returns></returns>
+        public override string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("\nCLIENTE");
+            sb.AppendLine("*********");
+            sb.AppendLine((string)this);
+            sb.Append("Codigo : " + this.Codigo);
+            return sb.ToString();
         }
         #endregion
     }

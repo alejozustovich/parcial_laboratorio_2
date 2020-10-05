@@ -91,7 +91,7 @@ namespace Entidades
 
             foreach (Producto producto in c.productos)
             {
-                descripciones += producto.Descripcion + ", ";
+                descripciones += producto.Descripcion + ". ";
             }
 
             return descripciones;
@@ -107,11 +107,12 @@ namespace Entidades
         public static string ToString(Compra c)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("TICKET: " + c.NroTicket.ToString());
-            sb.AppendLine("PRODUCTOS : " + c.Productos);
+            sb.AppendLine("TICKET : " + c.NroTicket.ToString());
+            sb.AppendLine("************");
+            sb.AppendLine("\nPRODUCTOS : " + c.Productos);
             sb.AppendLine("PRECIO : $" + c.Precio.ToString());
-            sb.AppendLine("VENDEDOR : " + c.Vendedor);
-            sb.AppendLine("CLIENTE: " + c.Comprador);
+            sb.AppendLine(c.vendedor.Mostrar());
+            sb.AppendLine(c.comprador.Mostrar());
             return sb.ToString();
         }
         #endregion

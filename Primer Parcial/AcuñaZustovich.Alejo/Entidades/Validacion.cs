@@ -8,6 +8,7 @@ namespace Entidades
 {
     public static class Validacion
     {
+        #region METODOS
         /// <summary>
         /// Valida que no sea una cadena vacía.
         /// </summary>
@@ -47,5 +48,6 @@ namespace Entidades
                 return precio;
             return -1;
         }
+        #endregion
     }
 }

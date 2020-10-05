@@ -33,7 +33,7 @@ namespace Entidades
         /// <summary>
         /// Permisos de sólo lectura para el nombre.
         /// </summary>
-        protected string Nombre
+        private string Nombre
         {
             get { return this.nombre; }
         }
@@ -41,9 +41,14 @@ namespace Entidades
         /// <summary>
         /// Permisos de sólo lectura para el apellido.
         /// </summary>
-        protected string Apellido
+        private string Apellido
         {
             get { return this.apellido; }
+        }
+
+        protected string NombreCompleto
+        {
+            get { return this.Nombre + " " + this.Apellido; }
         }
 
         /// <summary>
@@ -52,6 +57,31 @@ namespace Entidades
         public int Dni
         {
             get { return this.dni; }
+        }
+        #endregion
+
+        #region SOBRECARGAS
+        /// <summary>
+        /// Sobrecarga explicita del operador string: muestra atributos de la persona.
+        /// </summary>
+        /// <param name="p"></param>
+        public static explicit operator string(Persona p)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Nombre : " + p.NombreCompleto);
+            sb.Append("Dni : " + p.Dni);
+            return sb.ToString();
+        }
+        #endregion
+
+        #region METODOS
+        /// <summary>
+        /// Muestra los atributos de la persona.
+        /// </summary>
+        /// <returns></returns>
+        public virtual string Mostrar()
+        {
+            return this.ToString();
         }
         #endregion
     }
