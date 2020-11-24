@@ -1,0 +1,18 @@
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Entidades\obj\Debug\Entidades.pdb

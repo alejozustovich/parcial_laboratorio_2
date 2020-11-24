@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Comida>
+    <Plato>Canelones de Verdura</Plato>
+    <Precio>220</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Ñoquis</Plato>
+    <Precio>220</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Ravioles de Ricota</Plato>
+    <Precio>220</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Milanesa Suprema c/ Papas</Plato>
+    <Precio>350</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Pollo al Verdeo</Plato>
+    <Precio>380</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Matambre a la Pizza</Plato>
+    <Precio>390</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Albondigas c/ Puré</Plato>
+    <Precio>350</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Arroz c/ Pollo</Plato>
+    <Precio>250</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Ensalada Caesar</Plato>
+    <Precio>200</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Filet de Merluza c/ Puré</Plato>
+    <Precio>350</Precio>
+  </Comida>
+  <Comida>
+    <Plato>Empanadas (Docena)</Plato>
+    <Precio>500</Precio>
+  </Comida>
+</ArrayOfComida>

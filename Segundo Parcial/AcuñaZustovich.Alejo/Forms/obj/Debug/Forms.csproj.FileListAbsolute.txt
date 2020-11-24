@@ -1,0 +1,30 @@
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.Local.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.exe.config
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.exe
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Forms.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.Local.resources
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.exe
+C:\Users\Gigabyte\Desktop\Segundo Parcial\AcuñaZustovich.Alejo\Forms\obj\Debug\Forms.pdb
